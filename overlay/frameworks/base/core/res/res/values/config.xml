@@ -365,4 +365,10 @@
 
     <!-- Whether the device supports Smart Pixels -->
     <bool name="config_supportSmartPixels">true</bool>
+
+    <!-- Wired/BT headset focus mode -->
+    <bool name="config_deviceRingtoneFocusMode">true</bool>
+
+    <bool name="config_enableWifiDisplay">true</bool>
+    <bool name="config_wifiDisplaySupportsProtectedBuffers">true</bool>
 </resources>
