@@ -78,4 +78,6 @@
         <item>restart_bootloader</item>
         <item>restart_fastboot</item>
      </string-array>
+
+     <integer name="config_deviceLightCapabilities">232</integer>
 </resources>
