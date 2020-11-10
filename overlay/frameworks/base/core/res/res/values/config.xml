@@ -368,4 +368,7 @@
 
     <!-- Wired/BT headset focus mode -->
     <bool name="config_deviceRingtoneFocusMode">true</bool>
+
+    <!-- Enable Smart charging. -->
+    <bool name="config_deviceSupportSmartCharging">true</bool>
 </resources>
